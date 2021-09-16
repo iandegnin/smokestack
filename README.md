@@ -1,6 +1,6 @@
 # smokestack
 
-Glissa the Traitor - 105
+Glissa the Traitor - 85
 
 Crucible
 Ramunap
@@ -60,31 +60,6 @@ Night's Whisper
 Read the Bones
 Harmonize
 
-[DRAW EGGS]
-Brainstone
-Mindstone
-Nihil Spellbomb
-Soul-Guide Lantern
-Ichor Wellspring
-Mishra's Bauble
-Horizon Spellbomb
-Conjurer's Bauble
-Urza's Bauble
-Necrogen Spellbomb
-Lifespark Spellbomb
-Scrabbling Claws
-Chromatic Sphere
-Chromatic Star
-
-[REMOVAL EGGS]
-Sylvok Replica
-Executioner's Capsule
-
-[OTHER EGGS]
-Expedition Map
-Waystone Bauble
-Sensei's Divining Top
-Lotus Petal
 
 [RECURSION]
 Scrap Trawler
