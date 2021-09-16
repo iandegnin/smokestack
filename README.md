@@ -1,11 +1,12 @@
 # smokestack
 
-Glissa the Traitor - 104
+Glissa the Traitor - 105
 
 Crucible
 Ramunap
 Bloodghast
 Bitterblossom
+Deathrite
 
 Arcbound Ravager
 Life from the Loam
